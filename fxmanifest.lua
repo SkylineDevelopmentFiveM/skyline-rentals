@@ -2,7 +2,7 @@ fx_version 'cerulean'
 
 game 'gta5'
 
-author 'SkylineDevelopment'
+author 'Sk'
 description 'Standalone vehicle rental using ox_lib, ox_inventory, ox_target'
 version '1.0.0'
 
